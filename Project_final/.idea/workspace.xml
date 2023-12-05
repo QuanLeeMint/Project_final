@@ -11,19 +11,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06967ab3-6a9d-4ca7-8a7b-ee9cfcd46bca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/carpenter-website-template.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/cauchuyenthuonghieu.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/cauchuyenthuonghieu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/cungcapcaphe.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/cungcapcaphe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/gudam.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/gudam.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/hethongcuahang.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/hethongcuahang.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/khoahoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/khoahoc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/nhuongquyen.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/nhuongquyen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/sanphambanle.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/sanphambanle.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -50,23 +65,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IT/HK1_2023-2024/Wed Programming/Project_final/Project_final&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2551724&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/IT/HK1_2023-2024/Wed Programming/Project_final/Project_final",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2551724",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ADMIN\IdeaProjects\Project_final\src\main\webapp" />
@@ -176,7 +193,7 @@
       <workItem from="1701706543979" duration="10000" />
       <workItem from="1701706602964" duration="67000" />
       <workItem from="1701706707724" duration="4492000" />
-      <workItem from="1701779569671" duration="1782000" />
+      <workItem from="1701779569671" duration="6439000" />
     </task>
     <servers />
   </component>
