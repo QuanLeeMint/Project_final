@@ -3,7 +3,6 @@
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="Project_final:war" />
-      <artifact name="Project_final:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -11,20 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06967ab3-6a9d-4ca7-8a7b-ee9cfcd46bca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Lets/avar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Lets/handdrew.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Lets/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Lets/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Lets/latte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/signup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/profile.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/profile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/profile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/signup.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/signup.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/gudam.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/gudam.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/gudam.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/gudam.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/khoahoc.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/khoahoc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/profile.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +28,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Jsp File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -202,7 +196,7 @@
       <workItem from="1701779569671" duration="6488000" />
       <workItem from="1701791709893" duration="2408000" />
       <workItem from="1701796081996" duration="8674000" />
-      <workItem from="1701850673928" duration="6321000" />
+      <workItem from="1701850673928" duration="16049000" />
     </task>
     <servers />
   </component>

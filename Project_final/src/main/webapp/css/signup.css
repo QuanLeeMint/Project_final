@@ -10,7 +10,9 @@
     margin: 0 auto; /* Để căn giữa trang */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Đổ bóng cho form */
 }
-
+.span{
+    margin: 0 auto; /* Để căn giữa trang */
+}
 .title {
     font-size: 28px;
     color: rgb(51, 51, 51);
